@@ -1,0 +1,14 @@
+*{
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+ul li span{
+    display: inline-block;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.done{
+    text-decoration: line-through;
+}
