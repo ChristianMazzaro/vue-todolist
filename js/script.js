@@ -26,7 +26,7 @@ createApp({
                     done:false
                 },
                 {
-                    text: "piangere sulò latte versato",
+                    text: "piangere sul latte versato",
                     done:false
                 }
             ]
